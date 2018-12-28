@@ -1,6 +1,12 @@
 {
   "name": "ngx-tag-commander-app",
   "version": "0.9.2",
+  "author": "Lenoir Jérémie",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremielenoir/ngx-tag-commander-v2"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
