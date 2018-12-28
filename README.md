@@ -203,11 +203,12 @@ TagCommanderService.reloadAllContainer(options);
 
 ## Sample app
 To help you with your implementaiton we provided a sample application. to run it
-```bash
-cd tag-commander-sample-app
-yarn start
 ```
-then go to [http://localhost:8080](http://localhost:8080)
+ng serve
+or
+npm start
+```
+then go to [http://localhost:4200/](http://localhost:4200/)
 
 
 ## License
