@@ -49,7 +49,7 @@
             <div class="total-price">
                 <span>Total:</span>
                 <span class="grand-total"> {{ cartGrandTotal() }} {{ defaultStoreCurrency }}</span>
-                <button class="button green-500 buy-button" (click)="checkout(); isMsgDisplayed = true" [tcEvent]="{'eventLabel': 'test', 'data': item}">Buy</button>
+                <button class="button green-500 buy-button" (click)="checkout(); isMsgDisplayed = true">Buy</button>
             </div>
         </div>
     </div>
